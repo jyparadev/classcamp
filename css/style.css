@@ -1,0 +1,37 @@
+*{
+padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+button{
+    border: none;
+    cursor: pointer;
+    transition:.5s;
+}
+ body{
+     font-family:Roboto,sans-serif;
+ }
+ .header-nav h1{
+
+ }
+ /*header start*/
+
+#header{
+    background: white;
+    padding: 25px 0;
+}
+
+.header-nav h1{
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+}
+ /*header start*/
